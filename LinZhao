@@ -1,12 +1,14 @@
-body {
-  margin-top: 60px
-}
-
+<html>
+<head><meta name="viewport" content="width=device-width, initial-scale=1"><title>A Tribute to Lin Zhao</title><style>
+  body {background-color: black;} 
+  </style>
+  </head>
+<body>
 <div class="container">
-  <div class="col-lg-12"><img src=http://www.hrichina.org/sites/default/files/images/story/20130405-01.jpg>
-  </div>
-  <div class="jumbotron">
+  <div style="background: #ff4d4d" class="jumbotron">
     <div class="row">
       <div class="col-xs-12">
         <h1 class="text-center">Lin Zhao</h1>
         <h2 class="text-center"><em>Blood Poet of the Cultural Revolution</em></h2>
+        <img class="img-responsive img-thumbnail" src=http://www.hrichina.org/sites/default/files/images/story/20130405-01.jpg>
+        </body>
